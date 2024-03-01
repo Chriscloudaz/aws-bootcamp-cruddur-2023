@@ -13,3 +13,6 @@ watchtower
 
 blinker
 rollbar
+
+psycopg[binary]
+psycopg[pool]
